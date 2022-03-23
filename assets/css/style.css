@@ -1,0 +1,10 @@
+.header {
+    text-align:left;
+    color: green;
+    background-color: black;
+}
+
+.container {
+    text-align: center;
+    text-decoration: line-through;
+}
